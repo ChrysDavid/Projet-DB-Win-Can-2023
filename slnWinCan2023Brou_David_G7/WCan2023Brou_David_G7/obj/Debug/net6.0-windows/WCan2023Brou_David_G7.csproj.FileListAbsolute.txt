@@ -1,0 +1,267 @@
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.exe
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.deps.json
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.runtimeconfig.json
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.AssemblyReference.cache
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmConnexionBrou_D_G7.resources
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmEncardreurBrou_D_G7.resources
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMenuPrincipalBrou_D_G7.resources
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.GenerateResource.cache
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfoInputs.cache
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfo.cs
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CoreCompileInputs.cache
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\refint\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.genruntimeconfig.cache
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\ref\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.Properties.Resources.resources
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmJoueursBrou_D_G7.resources
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmHotelBrou_D_G7.resources
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmNationParticipBrou_D_G7.resources
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Chris David BROU\source\repos\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CopyComplete
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.exe
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.deps.json
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.runtimeconfig.json
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.AssemblyReference.cache
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmConnexionBrou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmEncardreurBrou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmHotelBrou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmJoueursBrou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMenuPrincipalBrou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.Properties.Resources.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.GenerateResource.cache
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfoInputs.cache
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfo.cs
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CopyComplete
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\refint\WCan2023Brou_David_G7.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.genruntimeconfig.cache
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\ref\WCan2023Brou_David_G7.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\Projet\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmUtilisateurBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.exe
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.deps.json
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.runtimeconfig.json
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.AssemblyReference.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmConnexionBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmEncardreurBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmHotelBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmJoueursBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMenuPrincipalBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmUtilisateurBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.Properties.Resources.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.GenerateResource.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfoInputs.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfo.cs
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CoreCompileInputs.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CopyComplete
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\refint\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.genruntimeconfig.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\ref\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMatch_Jouer_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.NationParticipe_Brou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\db G7\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMVTHotel_Brou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.exe
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.deps.json
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.runtimeconfig.json
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.AssemblyReference.cache
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmConnexionBrou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmEncardreurBrou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmHotelBrou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmJoueursBrou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMatch_Jouer_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMenuPrincipalBrou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMVTHotel_Brou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmUtilisateurBrou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.NationParticipe_Brou_D_G7.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.Properties.Resources.resources
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.GenerateResource.cache
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.GeneratedMSBuildEditorConfig.editorconfig
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfoInputs.cache
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfo.cs
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CoreCompileInputs.cache
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CopyComplete
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\refint\WCan2023Brou_David_G7.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.genruntimeconfig.cache
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\ref\WCan2023Brou_David_G7.dll
+D:\DOCUMENTS\SCHOOL\SCHOOL ( 2ème année )\Bases de données II et Programmation orientée objets\PROJET\Projet group\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmChoixNation.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.exe
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.deps.json
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.runtimeconfig.json
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.AssemblyReference.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmChoixNation.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmConnexionBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmEncardreurBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmHotelBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmJoueursBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMatch_Jouer_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMenuPrincipalBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMVTHotel_Brou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmUtilisateurBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.NationParticipe_Brou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.Properties.Resources.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.GenerateResource.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfoInputs.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfo.cs
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CoreCompileInputs.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CopyComplete
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\refint\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.genruntimeconfig.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\Projet group DB Groupe 7\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\ref\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.exe
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.deps.json
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.runtimeconfig.json
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.AssemblyReference.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmChoixNation.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmConnexionBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmEncardreurBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmHotelBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmJoueursBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMatch_Jouer_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMenuPrincipalBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmMVTHotel_Brou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.frmUtilisateurBrou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.NationParticipe_Brou_D_G7.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.Properties.Resources.resources
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.GenerateResource.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfoInputs.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.AssemblyInfo.cs
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CoreCompileInputs.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.csproj.CopyComplete
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\refint\WCan2023Brou_David_G7.dll
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.pdb
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\WCan2023Brou_David_G7.genruntimeconfig.cache
+C:\Users\Chris David BROU\OneDrive\Bureau\Gestion Win Can 2023\slnWinCan2023Brou_David_G7\WCan2023Brou_David_G7\obj\Debug\net6.0-windows\ref\WCan2023Brou_David_G7.dll
